@@ -1,0 +1,1 @@
+# lundi-30-juillet-rails_intermediaire
